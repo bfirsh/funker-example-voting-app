@@ -1,0 +1,16 @@
+{
+  "name": "process-vote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "start": "node handler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "funker": "^0.0.4",
+    "pg": "^6.1.0"
+  }
+}
